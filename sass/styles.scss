@@ -1,0 +1,19 @@
+body {
+    background-color: #eee;
+    color: black;
+    border: 1px solid blue;
+
+}
+
+h1 {
+    border-bottom: 2px;
+    margin: 20px 30px;
+    color: green;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+h2 {
+    color: blue;
+}
